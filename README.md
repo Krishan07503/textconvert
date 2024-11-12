@@ -1,4 +1,5 @@
 # React + Vite
+A React project that converts text to uppercase or lowercase, provides a summary with word and character count, estimates reading time, and displays a preview.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
